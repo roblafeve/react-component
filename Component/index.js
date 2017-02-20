@@ -1,6 +1,6 @@
 import React, { PureComponent, PropTypes } from 'react'
 
-const ComponentName = 'NavSettings'
+const ComponentName = 'Component'
 
 export default class Component extends PureComponent {
   render() {
